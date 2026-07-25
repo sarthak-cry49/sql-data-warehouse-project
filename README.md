@@ -43,8 +43,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-## 🌟 About Me
-
 Hi! I'm an undergraduate student at **IIT Guwahati** with a strong interest in **Data Analytics, Data Engineering, Machine Learning, and AI**. I enjoy transforming raw data into meaningful insights by building end-to-end data projects using **Python, SQL, Power BI, Pandas, and NumPy**.
 
 I'm passionate about continuously learning new technologies, solving real-world business problems, and creating projects that strengthen my technical skills. My goal is to become a skilled data professional capable of building scalable data solutions that drive informed decision-making.
